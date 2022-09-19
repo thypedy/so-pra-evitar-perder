@@ -1,1 +1,2 @@
-# so-pra-evitar-perder
+# 2EMIA
+Repositório de aula.
